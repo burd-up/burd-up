@@ -4,22 +4,24 @@ Hi 👋 My name is Roman Lukichev
 QA engineer
 -----------
 
+Manual testing engineer with an active desire for professional growth and improvement. I have experience in developing test cases, conducting testing and writing bug reports. My core skills include test design, DevTools, Git, and knowledge of markup and programming languages such as HTML, CSS, JavaScript, and React.
+
 * 🌍  I'm based in Georgia
 * ✉️  You can contact me at [lukichev.official@gmail.com](mailto:lukichev.official@gmail.com)
 * 🧠  I'm learning testing
 * 🤝  I'm open to collaborating on interesting projects
 
 <!--
-**burd-up/burd-up** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi 👋 My name is Роман Лукичев
+==============================
 
-Here are some ideas to get you started:
+QA engineer
+-----------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Инженер по ручному тестированию с активным стремлением к профессиональному росту и совершенствованию. Обладаю опытом в области разработки тест-кейсов, проведения тестирования и составления баг-репортов. Мои основные навыки включают тест-дизайн, работу с DevTools, владение Git, а также знание языков разметки и программирования, таких как HTML, CSS, JavaScript и React.
+
+* 🌍  I'm based in Грузия
+* ✉️  You can contact me at [lukichev.official@gmail.com](mailto:lukichev.official@gmail.com)
+* 🧠  I'm learning тестирование
+* 🤝  I'm open to collaborating on интересные проекты
 -->
